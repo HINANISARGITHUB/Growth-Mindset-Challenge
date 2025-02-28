@@ -48,7 +48,7 @@ else:
 
 #footer
 st.write("- - -")  
-st.write("Keeo believing in yourself. Growth is a journey, not a destination! ⭐")   
+st.write("Keep believing in yourself. Growth is a journey, not a destination! ⭐")   
 
 st.write("**©️ Created by Hina Nisar**")
 
